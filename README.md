@@ -27,5 +27,3 @@ Use print.py to read the license plate image and store the number in a txt file 
 
 Next step is to run the sendsms.py file using your own api url from any free sms sending service. I got mine from sms4india.com. This will read the drivers.csv file where details of the car owner is saved. It will check if the license number matches any from the list and send an sms with the details invoking the reason too. In my case it was speeding ticket.
 
-If you face any problem, just email.
-satyamsbg@gmail.com
